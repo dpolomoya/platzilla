@@ -13,12 +13,11 @@ export default function Footer() {
             <Image
               src="https://app.platzilla.com/themes/centaurus/img/logo-platzilla-vert.png"
               alt="Platzilla Logo"
-              width={50}
+              width={250}
               height={50}
             />
             <div>
-              <h3 className="text-white text-2xl font-semibold">Platzilla</h3>
-              <p className="text-sm text-gray-400">Business Solutions</p>
+            
             </div>
           </div>
         </div>
